@@ -5,7 +5,7 @@ import java.util.Objects;
 import java.util.Set;
 
 public class City {
-	
+	 
 	private String name;
 	
 	private Set<City> connections = new HashSet<>();
